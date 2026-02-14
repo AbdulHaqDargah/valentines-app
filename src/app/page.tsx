@@ -2,10 +2,15 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import PhotoPairGame from "../components/PhotoPairGame";
+import dynamic from "next/dynamic";
 import ValentinesProposal from "@/components/ValentinesProposal";
 import TextFooter from "@/components/TextFooter";
 import OrientationGuard from "@/components/OrientationGuard";
+
+const PhotoPairGame = dynamic(
+  () => import("../components/PhotoPairGame"),
+  { ssr: false }
+);
 
 const ANIM_DURATION = 2;
 

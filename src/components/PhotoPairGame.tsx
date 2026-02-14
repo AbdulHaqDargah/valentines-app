@@ -94,6 +94,7 @@ export default function PhotoPairGame({
       <div className="hidden">
         {images.map((image, i) => (
           <Image
+            unoptimized
             key={i}
             src={image}
             alt={`Image ${i + 1}`}
@@ -139,6 +140,7 @@ export default function PhotoPairGame({
                 style={{ backfaceVisibility: "hidden" }}
               >
                 <Image
+                  unoptimized
                   src={images[index]}
                   alt={`Imagen ${index + 1}`}
                   fill
