@@ -103,10 +103,14 @@ This project is licensed under the MIT License.
 
 ## Author ✍️
 
-visibait - [https://visibait.com]
+Original Author: visibait - [https://visibait.com]
+
+I just modified it. Please subscribe to my YouTube channel  
+[YT @Rousnuglolasnow](https://www.youtube.com/@Rousnuglolasnow)
+
 
 ## Donate
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/visibait)
+[!["Buy A Coffee for Original Author"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/visibait)
 
 ---
 
